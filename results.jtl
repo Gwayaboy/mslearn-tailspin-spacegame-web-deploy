@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1601209013719,685,HTTP Request,200,OK,Thread Group 1-1,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,152,0,103
+1601209013719,155,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,152,0,103
+1601209013879,525,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,449,0,407
+1601209014418,134,HTTP Request,200,OK,Thread Group 1-1,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209014418,20,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209014439,113,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,102,0,0
+1601209014555,94,HTTP Request,200,OK,Thread Group 1-1,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209014555,21,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209014577,72,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,57,0,0
+1601209014652,65,HTTP Request,200,OK,Thread Group 1-1,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209014652,24,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209014676,41,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,27,0,0
+1601209014719,55,HTTP Request,200,OK,Thread Group 1-1,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209014719,20,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209014739,35,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,30,0,0
+1601209014774,58,HTTP Request,200,OK,Thread Group 1-1,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209014774,21,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209014795,37,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209014641,215,HTTP Request,200,OK,Thread Group 1-2,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,50,0,19
+1601209014641,50,HTTP Request-0,307,Temporary Redirect,Thread Group 1-2,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,50,0,19
+1601209014692,164,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,139,0,96
+1601209014834,63,HTTP Request,200,OK,Thread Group 1-1,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209014834,21,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209014856,41,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,38,0,0
+1601209014859,76,HTTP Request,200,OK,Thread Group 1-2,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,37,0,0
+1601209014859,37,HTTP Request-0,307,Temporary Redirect,Thread Group 1-2,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,37,0,0
+1601209014897,38,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,34,0,0
+1601209014899,77,HTTP Request,200,OK,Thread Group 1-1,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,31,0,0
+1601209014899,31,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,31,0,0
+1601209014931,45,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,34,0,0
+1601209014937,60,HTTP Request,200,OK,Thread Group 1-2,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209014937,20,HTTP Request-0,307,Temporary Redirect,Thread Group 1-2,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209014957,40,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209014977,58,HTTP Request,200,OK,Thread Group 1-1,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209014977,23,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209015000,35,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209014998,65,HTTP Request,200,OK,Thread Group 1-2,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209014998,23,HTTP Request-0,307,Temporary Redirect,Thread Group 1-2,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209015022,41,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,30,0,0
+1601209015036,74,HTTP Request,200,OK,Thread Group 1-1,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,27,0,0
+1601209015036,27,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,27,0,0
+1601209015063,47,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,29,0,0
+1601209015065,79,HTTP Request,200,OK,Thread Group 1-2,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,42,0,0
+1601209015065,42,HTTP Request-0,307,Temporary Redirect,Thread Group 1-2,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,42,0,0
+1601209015108,36,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209015147,68,HTTP Request,200,OK,Thread Group 1-2,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209015147,21,HTTP Request-0,307,Temporary Redirect,Thread Group 1-2,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209015169,46,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,38,0,0
+1601209015217,104,HTTP Request,200,OK,Thread Group 1-2,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209015217,25,HTTP Request-0,307,Temporary Redirect,Thread Group 1-2,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209015243,78,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,75,0,0
+1601209015323,82,HTTP Request,200,OK,Thread Group 1-2,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209015323,23,HTTP Request-0,307,Temporary Redirect,Thread Group 1-2,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209015346,59,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,43,0,0
+1601209015408,84,HTTP Request,200,OK,Thread Group 1-2,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,29,0,0
+1601209015408,29,HTTP Request-0,307,Temporary Redirect,Thread Group 1-2,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,29,0,0
+1601209015438,54,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209015493,69,HTTP Request,200,OK,Thread Group 1-2,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209015493,26,HTTP Request-0,307,Temporary Redirect,Thread Group 1-2,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209015520,42,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,30,0,0
+1601209015640,220,HTTP Request,200,OK,Thread Group 1-3,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,54,0,21
+1601209015640,55,HTTP Request-0,307,Temporary Redirect,Thread Group 1-3,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,54,0,21
+1601209015696,164,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,138,0,93
+1601209015861,72,HTTP Request,200,OK,Thread Group 1-3,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209015861,24,HTTP Request-0,307,Temporary Redirect,Thread Group 1-3,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209015885,48,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,41,0,0
+1601209015935,66,HTTP Request,200,OK,Thread Group 1-3,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209015935,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-3,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209015954,47,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,41,0,0
+1601209016002,59,HTTP Request,200,OK,Thread Group 1-3,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209016002,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-3,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209016022,39,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209016063,54,HTTP Request,200,OK,Thread Group 1-3,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209016063,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-3,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209016082,35,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209016119,60,HTTP Request,200,OK,Thread Group 1-3,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,22,0,0
+1601209016119,22,HTTP Request-0,307,Temporary Redirect,Thread Group 1-3,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,22,0,0
+1601209016142,37,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209016181,61,HTTP Request,200,OK,Thread Group 1-3,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209016181,21,HTTP Request-0,307,Temporary Redirect,Thread Group 1-3,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209016203,39,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,28,0,0
+1601209016243,69,HTTP Request,200,OK,Thread Group 1-3,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209016243,23,HTTP Request-0,307,Temporary Redirect,Thread Group 1-3,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209016266,46,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,41,0,0
+1601209016314,69,HTTP Request,200,OK,Thread Group 1-3,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209016314,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-3,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209016334,49,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,44,0,0
+1601209016384,155,HTTP Request,200,OK,Thread Group 1-3,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209016384,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-3,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209016403,136,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,133,0,0
+1601209016641,203,HTTP Request,200,OK,Thread Group 1-4,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,50,0,22
+1601209016641,50,HTTP Request-0,307,Temporary Redirect,Thread Group 1-4,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,50,0,22
+1601209016693,151,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,126,0,89
+1601209016845,96,HTTP Request,200,OK,Thread Group 1-4,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,37,0,0
+1601209016845,37,HTTP Request-0,307,Temporary Redirect,Thread Group 1-4,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,37,0,0
+1601209016883,58,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,46,0,0
+1601209016943,101,HTTP Request,200,OK,Thread Group 1-4,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,27,0,0
+1601209016943,27,HTTP Request-0,307,Temporary Redirect,Thread Group 1-4,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,27,0,0
+1601209016971,73,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,29,0,0
+1601209017045,62,HTTP Request,200,OK,Thread Group 1-4,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209017045,25,HTTP Request-0,307,Temporary Redirect,Thread Group 1-4,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209017071,36,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,33,0,0
+1601209017109,81,HTTP Request,200,OK,Thread Group 1-4,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,41,0,0
+1601209017109,41,HTTP Request-0,307,Temporary Redirect,Thread Group 1-4,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,41,0,0
+1601209017151,39,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209017191,65,HTTP Request,200,OK,Thread Group 1-4,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,27,0,0
+1601209017191,27,HTTP Request-0,307,Temporary Redirect,Thread Group 1-4,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,27,0,0
+1601209017218,38,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,30,0,0
+1601209017258,57,HTTP Request,200,OK,Thread Group 1-4,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209017258,25,HTTP Request-0,307,Temporary Redirect,Thread Group 1-4,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209017283,32,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,28,0,0
+1601209017317,63,HTTP Request,200,OK,Thread Group 1-4,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209017317,23,HTTP Request-0,307,Temporary Redirect,Thread Group 1-4,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209017340,40,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209017381,61,HTTP Request,200,OK,Thread Group 1-4,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209017381,20,HTTP Request-0,307,Temporary Redirect,Thread Group 1-4,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209017402,40,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,29,0,0
+1601209017442,54,HTTP Request,200,OK,Thread Group 1-4,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209017442,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-4,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209017461,35,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,28,0,0
+1601209017640,217,HTTP Request,200,OK,Thread Group 1-5,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,44,0,19
+1601209017640,44,HTTP Request-0,307,Temporary Redirect,Thread Group 1-5,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,44,0,19
+1601209017686,171,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,146,0,106
+1601209017859,62,HTTP Request,200,OK,Thread Group 1-5,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209017859,21,HTTP Request-0,307,Temporary Redirect,Thread Group 1-5,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209017880,41,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209017923,69,HTTP Request,200,OK,Thread Group 1-5,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,22,0,0
+1601209017923,22,HTTP Request-0,307,Temporary Redirect,Thread Group 1-5,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,22,0,0
+1601209017945,47,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,31,0,0
+1601209017993,57,HTTP Request,200,OK,Thread Group 1-5,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209017993,23,HTTP Request-0,307,Temporary Redirect,Thread Group 1-5,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209018016,34,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,30,0,0
+1601209018052,57,HTTP Request,200,OK,Thread Group 1-5,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209018052,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-5,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209018072,37,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,28,0,0
+1601209018111,58,HTTP Request,200,OK,Thread Group 1-5,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209018111,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-5,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209018130,39,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209018170,57,HTTP Request,200,OK,Thread Group 1-5,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209018170,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-5,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209018190,37,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,27,0,0
+1601209018228,54,HTTP Request,200,OK,Thread Group 1-5,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,18,0,0
+1601209018228,18,HTTP Request-0,307,Temporary Redirect,Thread Group 1-5,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,18,0,0
+1601209018247,35,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,28,0,0
+1601209018283,56,HTTP Request,200,OK,Thread Group 1-5,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209018283,23,HTTP Request-0,307,Temporary Redirect,Thread Group 1-5,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209018306,33,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209018340,70,HTTP Request,200,OK,Thread Group 1-5,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209018340,23,HTTP Request-0,307,Temporary Redirect,Thread Group 1-5,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209018364,46,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,28,0,0
+1601209018647,194,HTTP Request,200,OK,Thread Group 1-6,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,38,0,19
+1601209018647,38,HTTP Request-0,307,Temporary Redirect,Thread Group 1-6,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,38,0,19
+1601209018687,154,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,132,0,96
+1601209018842,69,HTTP Request,200,OK,Thread Group 1-6,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,18,0,0
+1601209018842,18,HTTP Request-0,307,Temporary Redirect,Thread Group 1-6,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,18,0,0
+1601209018861,50,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,28,0,0
+1601209018913,62,HTTP Request,200,OK,Thread Group 1-6,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,29,0,0
+1601209018913,29,HTTP Request-0,307,Temporary Redirect,Thread Group 1-6,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,29,0,0
+1601209018943,32,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209018976,59,HTTP Request,200,OK,Thread Group 1-6,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209018976,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-6,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209018996,39,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,36,0,0
+1601209019037,59,HTTP Request,200,OK,Thread Group 1-6,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209019037,24,HTTP Request-0,307,Temporary Redirect,Thread Group 1-6,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209019061,35,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209019098,104,HTTP Request,200,OK,Thread Group 1-6,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209019098,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-6,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209019118,84,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,80,0,0
+1601209019203,65,HTTP Request,200,OK,Thread Group 1-6,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,29,0,0
+1601209019203,29,HTTP Request-0,307,Temporary Redirect,Thread Group 1-6,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,29,0,0
+1601209019232,36,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209019269,63,HTTP Request,200,OK,Thread Group 1-6,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209019269,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-6,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209019289,43,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,36,0,0
+1601209019333,53,HTTP Request,200,OK,Thread Group 1-6,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,18,0,0
+1601209019333,18,HTTP Request-0,307,Temporary Redirect,Thread Group 1-6,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,18,0,0
+1601209019351,35,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,29,0,0
+1601209019387,57,HTTP Request,200,OK,Thread Group 1-6,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209019387,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-6,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209019406,38,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,30,0,0
+1601209019639,246,HTTP Request,200,OK,Thread Group 1-7,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,51,0,18
+1601209019639,51,HTTP Request-0,307,Temporary Redirect,Thread Group 1-7,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,51,0,18
+1601209019692,193,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,169,0,109
+1601209019886,81,HTTP Request,200,OK,Thread Group 1-7,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,37,0,0
+1601209019886,37,HTTP Request-0,307,Temporary Redirect,Thread Group 1-7,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,37,0,0
+1601209019923,44,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,39,0,0
+1601209019968,57,HTTP Request,200,OK,Thread Group 1-7,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209019968,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-7,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209019988,37,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,27,0,0
+1601209020030,62,HTTP Request,200,OK,Thread Group 1-7,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020030,20,HTTP Request-0,307,Temporary Redirect,Thread Group 1-7,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020051,41,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209020093,79,HTTP Request,200,OK,Thread Group 1-7,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209020093,26,HTTP Request-0,307,Temporary Redirect,Thread Group 1-7,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209020120,52,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,49,0,0
+1601209020173,103,HTTP Request,200,OK,Thread Group 1-7,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,22,0,0
+1601209020173,22,HTTP Request-0,307,Temporary Redirect,Thread Group 1-7,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,22,0,0
+1601209020195,81,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,79,0,0
+1601209020277,55,HTTP Request,200,OK,Thread Group 1-7,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209020277,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-7,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209020296,36,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209020333,71,HTTP Request,200,OK,Thread Group 1-7,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020333,20,HTTP Request-0,307,Temporary Redirect,Thread Group 1-7,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020354,50,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209020405,75,HTTP Request,200,OK,Thread Group 1-7,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020405,20,HTTP Request-0,307,Temporary Redirect,Thread Group 1-7,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020425,55,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209020481,82,HTTP Request,200,OK,Thread Group 1-7,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,40,0,0
+1601209020481,40,HTTP Request-0,307,Temporary Redirect,Thread Group 1-7,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,40,0,0
+1601209020522,41,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,32,0,0
+1601209020640,172,HTTP Request,200,OK,Thread Group 1-8,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,40,0,20
+1601209020640,40,HTTP Request-0,307,Temporary Redirect,Thread Group 1-8,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,40,0,20
+1601209020682,130,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,108,0,73
+1601209020813,60,HTTP Request,200,OK,Thread Group 1-8,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020813,20,HTTP Request-0,307,Temporary Redirect,Thread Group 1-8,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020834,39,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,28,0,0
+1601209020874,73,HTTP Request,200,OK,Thread Group 1-8,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020874,20,HTTP Request-0,307,Temporary Redirect,Thread Group 1-8,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020894,53,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,52,0,0
+1601209020948,52,HTTP Request,200,OK,Thread Group 1-8,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020948,20,HTTP Request-0,307,Temporary Redirect,Thread Group 1-8,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209020968,32,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,28,0,0
+1601209021001,55,HTTP Request,200,OK,Thread Group 1-8,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209021001,21,HTTP Request-0,307,Temporary Redirect,Thread Group 1-8,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209021023,33,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209021057,67,HTTP Request,200,OK,Thread Group 1-8,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209021057,24,HTTP Request-0,307,Temporary Redirect,Thread Group 1-8,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209021082,42,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,28,0,0
+1601209021125,54,HTTP Request,200,OK,Thread Group 1-8,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209021125,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-8,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209021144,35,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,23,0,0
+1601209021181,60,HTTP Request,200,OK,Thread Group 1-8,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209021181,20,HTTP Request-0,307,Temporary Redirect,Thread Group 1-8,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,20,0,0
+1601209021201,40,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209021242,67,HTTP Request,200,OK,Thread Group 1-8,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209021242,19,HTTP Request-0,307,Temporary Redirect,Thread Group 1-8,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,19,0,0
+1601209021261,48,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,38,0,0
+1601209021311,68,HTTP Request,200,OK,Thread Group 1-8,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,22,0,0
+1601209021311,22,HTTP Request-0,307,Temporary Redirect,Thread Group 1-8,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,22,0,0
+1601209021333,46,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,25,0,0
+1601209021640,199,HTTP Request,200,OK,Thread Group 1-9,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,48,0,27
+1601209021640,48,HTTP Request-0,307,Temporary Redirect,Thread Group 1-9,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,48,0,27
+1601209021690,149,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,126,0,93
+1601209021841,101,HTTP Request,200,OK,Thread Group 1-9,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209021841,24,HTTP Request-0,307,Temporary Redirect,Thread Group 1-9,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,24,0,0
+1601209021865,77,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,73,0,0
+1601209021943,130,HTTP Request,200,OK,Thread Group 1-9,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,32,0,0
+1601209021943,32,HTTP Request-0,307,Temporary Redirect,Thread Group 1-9,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,32,0,0
+1601209021975,98,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,96,0,0
+1601209022074,201,HTTP Request,200,OK,Thread Group 1-9,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,50,0,0
+1601209022074,50,HTTP Request-0,307,Temporary Redirect,Thread Group 1-9,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,50,0,0
+1601209022124,151,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,149,0,0
+1601209022276,154,HTTP Request,200,OK,Thread Group 1-9,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,35,0,0
+1601209022276,35,HTTP Request-0,307,Temporary Redirect,Thread Group 1-9,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,35,0,0
+1601209022311,119,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,108,0,0
+1601209022431,271,HTTP Request,200,OK,Thread Group 1-9,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,103,0,0
+1601209022431,103,HTTP Request-0,307,Temporary Redirect,Thread Group 1-9,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,103,0,0
+1601209022534,168,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,162,0,0
+1601209022703,142,HTTP Request,200,OK,Thread Group 1-9,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,65,0,0
+1601209022703,65,HTTP Request-0,307,Temporary Redirect,Thread Group 1-9,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,65,0,0
+1601209022768,77,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,69,0,0
+1601209022847,93,HTTP Request,200,OK,Thread Group 1-9,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,40,0,0
+1601209022847,40,HTTP Request-0,307,Temporary Redirect,Thread Group 1-9,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,40,0,0
+1601209022887,53,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,41,0,0
+1601209022941,168,HTTP Request,200,OK,Thread Group 1-9,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,51,0,0
+1601209022941,51,HTTP Request-0,307,Temporary Redirect,Thread Group 1-9,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,51,0,0
+1601209022993,116,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,110,0,0
+1601209022639,470,HTTP Request,200,OK,Thread Group 1-10,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,172,0,101
+1601209022639,172,HTTP Request-0,307,Temporary Redirect,Thread Group 1-10,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,172,0,101
+1601209022813,296,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,214,0,159
+1601209023110,118,HTTP Request,200,OK,Thread Group 1-9,text,true,,39447,302,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,34,0,0
+1601209023110,34,HTTP Request-0,307,Temporary Redirect,Thread Group 1-9,,true,,383,151,2,2,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,34,0,0
+1601209023144,84,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,39064,151,2,2,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,81,0,0
+1601209023111,121,HTTP Request,200,OK,Thread Group 1-10,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,46,0,0
+1601209023111,46,HTTP Request-0,307,Temporary Redirect,Thread Group 1-10,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,46,0,0
+1601209023158,74,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,67,0,0
+1601209023234,145,HTTP Request,200,OK,Thread Group 1-10,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,68,0,0
+1601209023234,68,HTTP Request-0,307,Temporary Redirect,Thread Group 1-10,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,68,0,0
+1601209023302,77,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,75,0,0
+1601209023380,218,HTTP Request,200,OK,Thread Group 1-10,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209023380,26,HTTP Request-0,307,Temporary Redirect,Thread Group 1-10,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209023407,191,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,175,0,0
+1601209023599,461,HTTP Request,200,OK,Thread Group 1-10,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,279,0,0
+1601209023599,279,HTTP Request-0,307,Temporary Redirect,Thread Group 1-10,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,279,0,0
+1601209023877,183,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,179,0,0
+1601209024061,95,HTTP Request,200,OK,Thread Group 1-10,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209024061,26,HTTP Request-0,307,Temporary Redirect,Thread Group 1-10,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,26,0,0
+1601209024087,69,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,51,0,0
+1601209024157,138,HTTP Request,200,OK,Thread Group 1-10,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,70,0,0
+1601209024157,70,HTTP Request-0,307,Temporary Redirect,Thread Group 1-10,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,70,0,0
+1601209024227,68,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,52,0,0
+1601209024296,512,HTTP Request,200,OK,Thread Group 1-10,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,52,0,0
+1601209024296,52,HTTP Request-0,307,Temporary Redirect,Thread Group 1-10,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,52,0,0
+1601209024349,459,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,76,0,0
+1601209024809,94,HTTP Request,200,OK,Thread Group 1-10,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209024809,21,HTTP Request-0,307,Temporary Redirect,Thread Group 1-10,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,21,0,0
+1601209024830,73,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,49,0,0
+1601209024904,59,HTTP Request,200,OK,Thread Group 1-10,text,true,,39447,302,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,22,0,0
+1601209024904,22,HTTP Request-0,307,Temporary Redirect,Thread Group 1-10,,true,,383,151,1,1,http://tailspin-space-game-web-staging-nfr.azurewebsites.net/,22,0,0
+1601209024926,37,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,39064,151,1,1,https://tailspin-space-game-web-staging-nfr.azurewebsites.net/,36,0,0
